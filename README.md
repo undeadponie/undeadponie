@@ -2,7 +2,7 @@
 - 👀 I’m interested in parsing and creating tg bots
 - 🌱 I’m currently learning base coding collections on python
 - 💞️ I’m looking to collaborate on interesting product's team
-- 📫 How to reach me : tg: @karmcoma
+- 📫 How to find me : tg: @karmcoma
 
 <!---
 undeadponie/undeadponie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
